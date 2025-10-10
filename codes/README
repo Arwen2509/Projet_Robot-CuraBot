@@ -1,0 +1,2 @@
+Notre robot fonctionne à l'aide de 2 cartes arduino, et donc de 2 codes.
+Les cartes communiquent en I2C, une première permet de gerer l'écran d'affichage (maitre), et la deuxième controle tous les autres composants, moteurs, capteur... (esclave).

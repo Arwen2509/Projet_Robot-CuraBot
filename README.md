@@ -21,8 +21,8 @@ Ce projet a été réalisé lors de ma première année de formation en ingénie
 | Type | Détails |
 |------|---------|
 | Microcontrôleur | Arduino Uno / Mega |
-| Language | C / C++(Arduino IDE) |
-| Capteurs | Capteurs infrarouges et utrasons |
+| Language | C / C++ (Arduino IDE) |
+| Capteurs | Capteurs infrarouges et ultrasons |
 | Actionneurs | Moteurs à courant continu + contrôleur Cytron |
 | Interface utilisateur| Ecran tactile TFT |
-| Autres | Batterie,2 roues motrice, 1 roue folle |
+| Autres | Batterie, 2 roues motrices, 1 roue folle |

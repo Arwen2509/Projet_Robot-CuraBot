@@ -1,5 +1,12 @@
-Pour commencer notre projet, il fallait d'abord faire des recherches ainsi qu'un rapport pour expliquer ce que l'on prévoyait de faire.
-(cf Rapport Projet)
+# Documentation et présentations du projet CuraBot
 
-Puis, à la fin de notre projet, une présentation (cf Présentation finale CuraBot) et un rapport pour conclure sur notre projet 
-(cf Rapport final Curabot) étaient demandés.
+Ce dossier contient l'ensemble des documents produits dans le cadre du projet **CuraBot**.
+
+---
+
+## Contenu du dossier
+
+| Fichier | Description |
+| Rapport_Projet.pdf | Rapport sur les recherches éffectuées pour répondre à notre problématique, mise en place des idées |
+| Rapport_Final_Curabot.pdf | Rapport sur les résultats du projet ainsi que les pistes d'améliorations |
+| Présentation_finale_CuraBot.pdf | Diaporama utilisé pour la soutenance orale du projet |

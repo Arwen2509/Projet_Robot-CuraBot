@@ -5,12 +5,8 @@ This folder contains the 3D models for support components and accessories of the
 ## Contents
 
 The files in this directory include:
-- Support brackets and fixtures
-- Cable management components
 - Sensor mounts and holders
-- Auxiliary support structures
-- Custom clips and fasteners
-
+- Crazy wwheel support
 ## File Format
 
-All 3D models are provided in STL format for 3D printing.
+All 3D models are provided in 3mf format for 3D printing.

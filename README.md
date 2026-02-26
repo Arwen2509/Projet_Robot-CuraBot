@@ -1,5 +1,7 @@
 # CuraBot: Robot suiveur de ligne pour la livraison de médicaments
 
+<img width="580" height="574" alt="image" src="https://github.com/user-attachments/assets/90c8ed26-b6d1-41cb-a0d6-6ff5c800b145" />
+
 ## Déscription du projet:
 Ce projet consiste à concevoir et programmer un **robot suiveur de ligne autonome** capable d'accéder à différentes chambres pour déposer des
 médicaments.
